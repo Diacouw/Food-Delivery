@@ -1,6 +1,6 @@
 -Food Delivery Page
 
-A Spa Web Page About Buying Food 
+A Spa About Buying Food 
 
 You Can Order
 You Can Login 
